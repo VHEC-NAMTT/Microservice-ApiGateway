@@ -1,1 +1,4 @@
-# Microservice-ApiGateway
+# Run
+```bash
+docker-compose up -d
+```
